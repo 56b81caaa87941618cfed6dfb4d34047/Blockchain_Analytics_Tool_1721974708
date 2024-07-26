@@ -1,0 +1,18 @@
+{
+    "id": "purple_hero_component-017f0dff-f61d-39d6-1e25-4ba50d4c1df3",
+    "name": "purple_hero_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 12,
+    "h": 11,
+    "x": "100",
+    "y": "90",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
