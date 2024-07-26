@@ -16,9 +16,9 @@ Vue.component("fixed_left_side_hero_component_1721975477", {
             <div class="min-h-full w-full max-w-xl mx-auto flex flex-col justify-start px-4 sm:px-6 pt-36 pb-20 lg:py-20 flex-1" id="quote-header">
                 <div class="grow flex flex-col justify-center" id="quote-content">
                     <div class="space-y-3" id="quote-container">
-                        <div id="quote-title" class="font-caveat text-3xl" :class="heroTextBeforeTitleStyle">HERO_TEXT_BEFORE_TITLE</div>
-                        <h1 id="company-name" class="h1 font-orbiter font-bold" :class="heroTitleStyle">HERO_TITLE</h1>
-                        <time id="quote-date" class="block font-caveat text-xl" :class="heroSubtitleStyle">HERO_SUBTITLE</time>
+                        <div id="quote-title" class="font-caveat text-3xl" :class="heroTextBeforeTitleStyle">Unlock the Power of Blockchain Data</div>
+                        <h1 id="company-name" class="h1 font-orbiter font-bold" :class="heroTitleStyle">Blockchain Analytics Platform</h1>
+                        <time id="quote-date" class="block font-caveat text-xl" :class="heroSubtitleStyle">Gain Insights from Real-Time Blockchain Information</time>
                     </div>
                 </div>
             </div>
