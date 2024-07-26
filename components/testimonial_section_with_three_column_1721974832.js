@@ -3,8 +3,8 @@ Vue.component('testimonial_section_with_three_column_1721974832',
     <section class="relative py-14 flex flex-col items-center">
         <div class="relative z-10 max-w-screen-xl mx-auto px-4 md:px-8">
            <div class="max-w-xl sm:text-center md:mx-auto flex items-center flex-col">
-               <h3 class="text-center text-3xl text-white font-semibold sm:text-4xl">TESTIMONIAL_SECTION_TITLE_PLACEHOLDER_TEXT</h3>
-               <p class="mt-3 text-center text-white">TESTIMONIAL_SECTION_SUBTITLE_PLACEHOLDER_TEXT</p>
+               <h3 class="text-center text-3xl text-white font-semibold sm:text-4xl">What Users Say About Our Blockchain Analytics</h3>
+               <p class="mt-3 text-center text-white">Trusted by developers and companies worldwide</p>
            </div>
            <div class="mt-12">
                <ul class="grid items-center gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -15,13 +15,13 @@ Vue.component('testimonial_section_with_three_column_1721974832',
                        </div>
                        <figure>
                            <blockquote>
-                               <p class="text-gray-800 text-lg font-semibold px-4 py-1">TESTIMONIAL_1_PLACEHOLDER_TEXT</p>
+                               <p class="text-gray-800 text-lg font-semibold px-4 py-1">Their blockchain data analysis tools are top-notch. It gives us valuable insights to stay ahead of the curve.</p>
                            </blockquote>
                            <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
                                <img src="https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg" class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                <div>
-                                   <span class="block text-gray-800 font-semibold">TESTIMONIAL_GIVER_1_PLACEHOLDER_TEXT</span>
-                                   <span class="max-w-full block text-indigo-600 text-xs mt-0.5">TESTIMONIAL_GIVER_1_DESCRIPTION_PLACEHOLDER_TEXT</span>
+                                   <span class="block text-gray-800 font-semibold">Sarah Thompson</span>
+                                   <span class="max-w-full block text-indigo-600 text-xs mt-0.5">CTO, FinTech Startup</span>
                                </div>
                            </div>
                        </figure>
@@ -33,13 +33,13 @@ Vue.component('testimonial_section_with_three_column_1721974832',
                        </div>
                        <figure>
                            <blockquote>
-                               <p class="text-gray-800 text-lg font-semibold px-4 py-1">TESTIMONIAL_2_PLACEHOLDER_TEXT</p>
+                               <p class="text-gray-800 text-lg font-semibold px-4 py-1">The platform's real-time analytics on new blockchain data helps us make informed decisions quickly.</p>
                            </blockquote>
                            <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
                                <img src="https://randomuser.me/api/portraits/men/46.jpg" class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                <div>
-                                   <span class="block text-gray-800 font-semibold">TESTIMONIAL_GIVER_2_PLACEHOLDER_TEXT</span>
-                                   <span class="max-w-full block text-indigo-600 text-xs mt-0.5">TESTIMONIAL_GIVER_2_DESCRIPTION_PLACEHOLDER_TEXT</span>
+                                   <span class="block text-gray-800 font-semibold">Miguel Rodrigez</span>
+                                   <span class="max-w-full block text-indigo-600 text-xs mt-0.5">Blockchain Developer</span>
                                </div>
                            </div>
                        </figure>
@@ -50,13 +50,13 @@ Vue.component('testimonial_section_with_three_column_1721974832',
                        </div>
                        <figure>
                            <blockquote>
-                               <p class="text-gray-800 text-lg font-semibold px-4 py-1">TESTIMONIAL_3_PLACEHOLDER_TEXT</p>
+                               <p class="text-gray-800 text-lg font-semibold px-4 py-1">Their blockchain analytics suite is intuitive and powerful. It streamlined our research process significantly.</p>
                            </blockquote>
                            <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
                                <img src="https://randomuser.me/api/portraits/men/86.jpg" class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                <div>
-                                   <span class="block text-gray-800 font-semibold">TESTIMONIAL_GIVER_3_PLACEHOLDER_TEXT</span>
-                                   <span class="max-w-full block text-indigo-600 text-xs mt-0.5">TESTIMONIAL_GIVER_3_DESCRIPTION_PLACEHOLDER_TEXT</span>
+                                   <span class="block text-gray-800 font-semibold">Emily Chen</span>
+                                   <span class="max-w-full block text-indigo-600 text-xs mt-0.5">Data Science Lead</span>
                                </div>
                            </div>
                        </figure>
