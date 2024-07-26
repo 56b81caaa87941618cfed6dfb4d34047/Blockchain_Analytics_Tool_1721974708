@@ -6,7 +6,7 @@
 Vue.component("quoty_faq_accordion_component_1721975495", {
     template: `
     <section class="py-8 bg-white pl-4">
-        <h2 class="text-lg font-semibold mb-5">PLACEHOLDER_FAQ_TITLE</h2>
+        <h2 class="text-lg font-semibold mb-5">Frequently Asked Questions About Our Blockchain Analysis App</h2>
         <!-- Accordion -->
         <div class="space-y-3">
             <!-- Accordion item -->
@@ -38,10 +38,10 @@ Vue.component("quoty_faq_accordion_component_1721975495", {
             svgFillStyle: "fill-slate-400 dark:fill-slate-500",
             termsTextStyle: "text-slate-500 dark:text-slate-400",
             terms: [
-                { title: "ACCORDION_QUESTION_1", description: "ACCORDION_ANSWER_1", expanded: false },
-                { title: "ACCORDION_QUESTION_2", description: "ACCORDION_ANSWER_2", expanded: false },
-                { title: "ACCORDION_QUESTION_3", description: "ACCORDION_ANSWER_3", expanded: false },
-                { title: "ACCORDION_QUESTION_4", description: "ACCORDION_ANSWER_4", expanded: false },
+                { title: "What is this app used for?", description: "Our app provides powerful analytics for new blockchain data. It allows you to quickly parse, filter, and visualize information from recent blocks and transactions.", expanded: false },
+                { title: "How does the analysis work?", description: "We connect directly to live blockchain nodes and apply cutting-edge natural language processing techniques to extract insights from raw data streams in real-time.", expanded: false },
+                { title: "What blockchains are supported?", description: "Currently we support analysis for Bitcoin, Ethereum, and several other major blockchains. New chains are added regularly based on user demand.", expanded: false },
+                { title: "Is my data kept private?", description: "Absolutely. We never store or share any blockchain data processed through our app. All analysis happens locally on your device.", expanded: false },
             ],
         };
     },
